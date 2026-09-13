@@ -145,6 +145,7 @@ Focus campaign targeting on age groups with stronger response rates.
 Use customer education and marital-status segments for more personalized campaigns.
 Re-engage customers with longer periods since their last interaction.
 Use purchasing behaviour to identify high-value customer segments.
+
 Conclusion
 
 This project demonstrates an end-to-end customer analytics workflow, combining Python, SQL, MySQL, and Power BI to transform raw customer data into actionable business insights.
